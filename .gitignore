@@ -1,0 +1,6 @@
+ #this is a comment  
+Temp/ 
+*.tmp 
+*.csv 
+**/Ign_1 
+Ign_2/** 
